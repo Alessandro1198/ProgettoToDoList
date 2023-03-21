@@ -1,6 +1,7 @@
 # ProgettoToDoList
 
 Prgetto realizzato con Spring Boot e Hibernate.
+
 Piccolo progetto che registra delle note su un server locale e tramite una GET scarica un PDF contenente le varie note all'interno del database.
 
 
