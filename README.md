@@ -19,3 +19,14 @@ Il progetto è formato da:
 -NoteRestController, che serve a mappare i vari percorsi insieme ad i metodi GET,POST,DELETE.
 
 -PdfGeneratorRestController, che serve a mappare i vari percorsi per scaricare il pdf con tutte le note del database, o in base all'id.
+
+
+
+
+
+API utilizzata:
+<dependency>
+			<groupId>com.github.librepdf</groupId>
+			<artifactId>openpdf</artifactId>
+			<version>1.3.8</version>
+</dependency>
