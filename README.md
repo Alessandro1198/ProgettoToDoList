@@ -25,8 +25,8 @@ Il progetto è formato da:
 
 
 API utilizzata:
-"<dependency>
+<dependency>
 			<groupId>com.github.librepdf</groupId>
 			<artifactId>openpdf</artifactId>
 			<version>1.3.8</version>
-</dependency>"
+</dependency>
